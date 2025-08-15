@@ -1,5 +1,6 @@
-# Spotify_Youtube_EDA
+# Spotify_Youtube_EDA- https://www.kaggle.com/datasets/rohitgrewal/spotify-youtube-data/data
 Exploratory Data Analysis (EDA) is the first step in understanding a dataset’s structure, patterns, and anomalies before applying advanced analytics or modeling. In this project, we analyze a combined Spotify–YouTube dataset, which brings together streaming metrics from Spotify and engagement statistics from YouTube for various songs and artists. The goal is to uncover trends in music popularity, relationships between audio features and listener behavior, and the interplay between streaming platforms.
+
 
 # Insights
 # 1. Top 10 Artist with Highest views on Youtube
